@@ -1,2 +1,2 @@
 # Simple-Notes-Application
-Test Task: Trainee
+Test Task: Trainee for Softteco
